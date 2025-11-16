@@ -10,8 +10,9 @@ Este repositório reúne todos os meus estudos e práticas em Python, incluindo:
 ## Estrutura de pastas
 
 📦 python-studies
-┣ 📂 curso-em-video
+┣ 📂 Curso-em-video
 ┣ 📂 cisco-networking
-┣ 📂 beecrowd
-┣ 📂 hackerrank
+┣ 📂 Beecrowd
+┣ 📂 projeto-SQlite
+┣ 📂 Estudo-proprio
 ┗ 📂 projetos
